@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.5)
 project(XdgUtils)
 set(PROJECT_VERSION 1.0.1)
 set(PROJECT_DESCRIPTION "Freedesktop standards C++ implementation")
